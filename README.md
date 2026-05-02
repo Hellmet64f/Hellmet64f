@@ -1,16 +1,13 @@
-## Hi there 👋
+👨‍💻 Sobre mimconst dev = {
+  nome: "Mauro de Souza",
+  focoAtual: "Projetos open-source",
+  estudando: ["Go", "Rust", "Arquitetura de Software"],
+  pergunteMeSobre: ["TypeScript", "React", "Next.js", "GraphQL"],
+  contato: "seu-email@exemplo.com",
+  digaOla: () => {
+    console.log("Olá! Bem-vindo ao meu perfil no GitHub 👋");
+  }
+};
 
-<!--
-**Hellmet64f/Hellmet64f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+dev.digaOla();
+🛠️ Tecnologias e Ferramentas📊 Estatísticas do GitHub
